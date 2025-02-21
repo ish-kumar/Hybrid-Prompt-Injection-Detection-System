@@ -39,14 +39,3 @@ Longer-term goals include:
 *   Exploring semantic and contextual analysis techniques.
 *   Building a comprehensive test dataset.
 
-## Usage
-
-(Provide basic instructions if possible, even if limited.  If not possible yet, say "Usage instructions will be provided as the project matures.")
-
-## Contributing
-
-Contributions are welcome, even at this early stage!  Please open an issue to discuss ideas or potential collaborations.
-
-## License
-
-[Choose a license, e.g., MIT License]
